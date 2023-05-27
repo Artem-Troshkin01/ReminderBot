@@ -5,6 +5,7 @@ from aiogram import types, Dispatcher, Bot
 from aiogram.types import BotCommand
 from aiogram.utils.exceptions import BadRequest
 from fastapi import FastAPI
+
 from fastapi.responses import JSONResponse
 from starlette import status
 
